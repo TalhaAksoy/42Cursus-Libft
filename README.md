@@ -1,1 +1,1 @@
-# 42Curses-Libft-125-
+# 42Cursus-Libft-125-
